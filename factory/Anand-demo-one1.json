@@ -1,0 +1,9 @@
+{
+	"name": "Anand-demo-one1",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dcb28b97-5a31-46af-9299-d8568c07bf35",
+		"tenantId": "b159d9c7-e84a-4596-b57f-9888c3e2568a"
+	}
+}
